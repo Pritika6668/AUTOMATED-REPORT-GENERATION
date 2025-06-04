@@ -7,6 +7,7 @@
 - Domain: Python Programming
 - Batch Duration: May 30th 2025 – July 15th 2025
 - Mentor Name: Neela Santosh
+- Output: [report.pdf](https://github.com/user-attachments/files/20586799/report.pdf)
 
 ## Description:
 The "Automated Report Generation" project is a practical application of Python programming designed to automate the process of reading, analyzing, and presenting data in a professional report format. This system takes a dataset in CSV format, processes it to generate useful statistics and visual representations, and finally outputs a formatted PDF report containing both the numerical insights and graphs.
